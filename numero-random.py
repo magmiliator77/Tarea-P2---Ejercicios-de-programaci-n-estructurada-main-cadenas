@@ -26,7 +26,7 @@ if letra in palabra:
     print("Has ganado Pasapalabra!! eres un fiera")
 else:
     print("Incorrecto. La palabra era:", palabra)
-    print("No pasa nada, otro dia mas que gana los mosos de escuadra, pero te llevas el juego de pasa palabra!!")
+    print("No pasa nada, otro dia mas que gana los Mosos de Arousa, pero te llevas el juego de pasa palabra!!")
 
 
 #CREADO POR MIGUEL TORRES MARTÍNEZ 2ºB SMR ✞
