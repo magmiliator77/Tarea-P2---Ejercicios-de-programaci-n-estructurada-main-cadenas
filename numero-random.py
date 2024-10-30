@@ -1,7 +1,7 @@
 """
 Este ejercicio lo he hecho para practicar y por el chiste, está basado en el programa de Telecinco Pasapalabra. En concreto en la ultima fase de este donde tienes que adivinar una palabra relacionada con un tema. 
 
-¿¿¿Seras capaz de ganar a los Mosos de Escuadra???
+¿¿¿Seras capaz de ganar a los Mosos de Arousa???
 (Son los protagonistas del programa, llevan sin perder mucho tiempo y siguen todavía en pie)
 
 """
